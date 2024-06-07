@@ -1,0 +1,8 @@
+pkg install python
+pkg install python-pip
+pip install telethon
+pip install cryptography
+pip install asyncio
+pkg install clang
+pkg install openssl
+pkg install libffi
