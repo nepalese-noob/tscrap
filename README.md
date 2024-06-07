@@ -1,11 +1,17 @@
 The purpose of the tool is to scrape members from one Telegram group and add them to another group quickly and efficiently. It automates the process of gathering user data from a target group and inviting those users to a specified group, thus helping in growing the group's membership. This can be useful for managing and expanding Telegram communities.
 
 To install the dependencies listed in `requirements.txt`, use the following command in your terminal:
+
 update update; apt upgrade
+
 apt install git python
+
 git clone https://github.com/Nepalese-Noob/tscrap
+
 cd tscrap
+
 pip install -r requirements.txt
+
 python3 runner.py
 
 
